@@ -42,6 +42,9 @@ npm run ios
 yarn ios
 ```
 
+## Step 2: working for detox testing 
+
+
 
 
 
